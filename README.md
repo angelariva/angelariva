@@ -2,7 +2,7 @@
 
 I'm a PhD student in Applied Mathematics, at the Inria Quantic team. 
 
-I am working in collaboration with the Laboratoire Kartier Brossel (LKB). My project is to develop quantum control strategies for a superconducting qubit coupled to a mechanical resonator.
+I am working on the theory of an optomechanics experiment with the Laboratoire Kartier Brossel (LKB), developing quantum control strategies for a fluxonium superconducting qubit + a mechanical resonator.
 
 My research interests include Open Quantum Systems, Many-Body and Statistical Mechanics. I am also passionate about Tensor Network methods.
 
