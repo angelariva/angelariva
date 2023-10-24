@@ -1,4 +1,4 @@
-I'm a PhD student in Applied Mathematics at the Inria Quantic team in Paris, France. Before that I studied in Milan, Italy. 
+I'm a PhD student in Applied Mathematics at the Inria Quantic team in Paris, France. 
 
 My primary research area is Open Quantum Systems theory 🔍, with both physical and technological applications in mind. I work with 
 
