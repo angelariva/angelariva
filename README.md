@@ -1,10 +1,15 @@
-### Hi there :robot:
+:robot:  I'm a PhD student in Applied Mathematics at the Inria Quantic team in Paris, France. Before that I studied in Milan, Italy. 
 
-I'm a PhD student in Applied Mathematics, at the Inria Quantic team. 
+🔍 My primary research area is Open Quantum Systems theory.
 
-I am working on the theory of an optomechanics experiment with the Laboratoire Kartier Brossel (LKB), developing quantum control strategies for a fluxonium superconducting qubit + a mechanical resonator.
+In my work, I explore quantum systems with both physical and technological applications in mind with 
 
-My research interests include Open Quantum Systems, Many-Body and Statistical Mechanics. I am also passionate about Tensor Network methods.
+📝  analytical methods (like time convolutionless master equations and adiabatic elimination) 
+
+💻  numerical methods (such as tensor networks for Spin-Boson models, efficient simulation of Lindblad equations, and SDPs).
+
+
+🔵─🔴─🟢─🟡 I'm also interested in Many Body theory.
 
 <!--
 **angelariva/angelariva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
