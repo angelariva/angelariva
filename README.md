@@ -1,6 +1,6 @@
 I'm a PhD student in Applied Mathematics at the Inria Quantic team in Paris, France. 
 
-My primary research area is Open Quantum Systems theory 🔍, with both physical and technological applications in mind. I work with 
+My primary research area is Open Quantum Systems theory, with both physical and technological applications in mind. I work with 
 
 - analytical methods 📝 (like time convolutionless master equations and adiabatic elimination) 
 
