@@ -1,8 +1,8 @@
 I'm a PhD student in Applied Mathematics at the Inria Quantic team in Paris, France. 
 
-My primary research area is **open quantum systems theory**. I work with analytical 📝 (like time convolutionless master equations and adiabatic elimination) and numerical methods 💻 (such as tensor networks for Spin-Boson models, efficient simulation of Lindblad equations, and SDPs).
+My primary research area is **open quantum systems theory**. I work with analytical (time convolutionless master equations, adiabatic elimination) and numerical methods (tensor networks for Spin-Boson models, efficient simulation of Lindblad equations, SDPs).
 
-I'm also interested in Many Body theory (🔵─🔴─🟢─🟡 especially tensor network simulations), and in collaborations!
+I'm also interested in Many Body theory (🔵─🔴─🟢─🟡 especially simulations of fermionic models), and in collaborations!
 
 <!--
 **angelariva/angelariva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
