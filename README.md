@@ -1,4 +1,4 @@
-I'm a PhD student in Applied Mathematics at the Inria Quantic team in Paris, France. 
+I'm a PhD student in Applied Mathematics at the Inria [Quantic team](https://team.inria.fr/quantic/) in Paris, France. 
 
 My primary research area is **open quantum systems theory**. I work with analytical (time convolutionless master equations, adiabatic elimination) and numerical methods (tensor networks for Spin-Boson models, efficient simulation of Lindblad equations, SDPs).
 
