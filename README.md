@@ -1,8 +1,8 @@
 I'm a PhD candidate in Applied Mathematics at the Inria [Quantic team](https://quantic.phys.ens.fr/) in Paris, France. 
 
-My primary research area is **open quantum systems theory**. I study models of realistic physical systems, using analytical (time convolutionless master equations, adiabatic elimination) and numerical methods (tensor networks, chain mappings, TDVP, SDPs).
+My primary research area is **open quantum systems theory**. I study realistic models of physical systems with potential applications to quantum technologies, using both analytical and numerical methods.
 
-I'm also interested in the many-body simulation of fermionic models 🔵─🔴─🟢─🟡, and in collaborations!
+I'm also interested in tensor network simulations of fermionic models 🔵─🔴─🟢─🟡, and in collaborations!
 
 <!--
 **angelariva/angelariva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
